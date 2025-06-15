@@ -5,6 +5,9 @@
            fetch="https://github.com/CipherOS"
            revision="sixteen" />
 
+  <remote  name="lineage"
+           fetch="https://github.com/LineageOS" />
+  
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
